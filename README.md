@@ -9,4 +9,6 @@ Recent papers:
   - [CrystalBLEU](https://github.com/sola-st/crystalbleu): Precisely and Efficiently Measuring the Similarity of Code, ASE 2022
   - [No Strings Attached](https://github.com/sola-st/string-bugs): An Empirical Study of String-related Software Bugs, ASE 2020
 
+My [Google Scholar Page](https://scholar.google.com/citations?user=3tMiDdcAAAAJ&hl=en).
+
 Reach me at aryaz.egh@gmail.com
