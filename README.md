@@ -1,15 +1,17 @@
-I’m [Aryaz Eghbali](https://aryaze.github.io/), a PhD student in [Software Lab](https://software-lab.org/) at the University of Stuttgart, Germany.
-I work on developer tools, frameworks, and metrics under the supervision of [Prof. Dr. Michael Pradel](https://software-lab.org/people/Michael_Pradel.html).
+I’m [Aryaz Eghbali](https://aryaze.github.io/), a PhD student in [Software Lab](https://software-lab.org/) at CISPA Helmholtz Center for Information Security, and the University of Stuttgart, in Germany.
+I work on automating software engineering processes by designing practical developer tools, frameworks, and metrics.
+I have been lucky to work under [Prof. Dr. Michael Pradel](https://software-lab.org/people/Michael_Pradel.html)'s supervision.
 
 Recent papers:
-  - [PoCGen](https://arxiv.org/abs/2506.04962): Generating Proof-of-Concept Exploits for Vulnerabilities in npm Packages
-  - [DyLin](https://github.com/sola-st/DyLin): A Dynamic Linter for Python, FSE 2025 (You can use it in your CI/CD via [auto-dylin](https://github.com/AryazE/auto-dylin) GitHub action)
+  - [Documentary](https://github.com/sola-st/Documentary): Natural Language-Focused Software Engineering via Code-Documentation Equivalence, **FSE 2026**
+  - [PoCGen](https://arxiv.org/abs/2506.04962): Generating Proof-of-Concept Exploits for Vulnerabilities in npm Packages, **FSE 2026**
+  - [DyLin](https://github.com/sola-st/DyLin): A Dynamic Linter for Python, **FSE 2025** (You can use it in your CI/CD via [auto-dylin](https://github.com/AryazE/auto-dylin) GitHub action)
   - [De-Hallucinator](https://github.com/aryaze/dehallucinator): Mitigating LLM Hallucinations in Code Generation Tasks via Iterative Grounding, [arXiv](https://arxiv.org/abs/2401.01701)
-  - [Using LLMs to generate unit tests](https://ieeexplore.ieee.org/abstract/document/10329992) (AKA [TestPilot](https://github.com/githubnext/testpilot)): An Empirical Evaluation of Using Large Language Models for Automated Unit Test Generation, IEEE Transactions on Software Engineering 2024
+  - [Using LLMs to generate unit tests](https://ieeexplore.ieee.org/abstract/document/10329992) (AKA [TestPilot](https://github.com/githubnext/testpilot)): An Empirical Evaluation of Using Large Language Models for Automated Unit Test Generation, **IEEE Transactions on Software Engineering 2024**
 
 Other notable papers:
-  - [DynaPyt](https://github.com/sola-st/DynaPyt): A Dynamic Analysis Framework for Python, ESEC/FSE 2022
-  - [CrystalBLEU](https://github.com/sola-st/crystalbleu): Precisely and Efficiently Measuring the Similarity of Code, ASE 2022
+  - [DynaPyt](https://github.com/sola-st/DynaPyt): A Dynamic Analysis Framework for Python, **ESEC/FSE 2022**
+  - [CrystalBLEU](https://github.com/sola-st/crystalbleu): Precisely and Efficiently Measuring the Similarity of Code, **ASE 2022** (ACM SIGSOFT Distinguished Paper Award 🏆)
 
 My [Google Scholar Page](https://scholar.google.com/citations?user=3tMiDdcAAAAJ&hl=en).
 
